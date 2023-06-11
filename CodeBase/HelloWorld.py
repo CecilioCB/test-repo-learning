@@ -18,6 +18,6 @@ print(df)
 
 print("betyg tells the score")
 
-#IS thi creating an issue? I believe Yes
+print("#IS thi creating an issue? I believe Yes")
 
 
