@@ -15,3 +15,4 @@ cutoff = [0,50,70,90,100]
 labels= ["Failed", "C", "B", "A"]
 df["Betyg"]=pd.cut(df["Mark"],bins=cutoff,labels=labels)
 print(df)
+print("betyg tells the score")
