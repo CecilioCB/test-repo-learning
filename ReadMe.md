@@ -5,4 +5,5 @@ Here you will be finding:
   Several small files
   Links tod documentation 
   
-  This, this file could also be used to communication what we be working on lately 
+  This, this file could also be used to communication what we be working on lately
+  20240805-looking again into this files for training purposes
